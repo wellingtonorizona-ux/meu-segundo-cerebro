@@ -12,13 +12,20 @@ O **Meu Segundo Cérebro** é um repositório de conhecimento pessoal. A propost
 | [Aprendizados de projeto](./aprendizados-de-projeto/README.md) | Experiências, decisões, problemas, soluções e lições aprendidas. | O que aprendi fazendo? |
 | [Referências](./referencias/README.md) | Artigos, livros, vídeos, sites, documentos, ferramentas e fontes úteis. | Onde encontro informação útil ou confiável? |
 | [Protocolos](./protocolos/README.md) | Regras e métodos para análise, produção, confiabilidade e auditoria do conhecimento. | Como o Segundo Cérebro deve trabalhar? |
+| [Comandos](./comandos/comandos-operacionais.md) | Atalhos para executar os protocolos de forma rápida e consistente. | Como aciono o método? |
 
-## Protocolos em desenvolvimento
+## Camada jurídica assistida por IA
 
-O projeto passou a incluir uma camada específica para uso jurídico assistido por IA:
+O projeto agora possui uma arquitetura operacional em evolução:
 
-- **[PC-SCJ 1.0 — Protocolo de Confiabilidade do Segundo Cérebro Jurídico](./protocolos/PC-SCJ-1.0.md)** — estabelece evidência antes da conclusão, hierarquia de fontes, classificação de confiabilidade, auditoria, rastreabilidade e validação humana.
-- **[PLJC 1.0 — Padrão de Linguagem Jurídica Controlada](./protocolos/PLJC-1.0.md)** — define regras para comunicação jurídica clara, precisa, verificável e adequada para uso humano e por IA.
+1. **PC-SCJ 1.0** — confiabilidade, rastreabilidade, fontes, auditoria e validação humana.
+2. **PLJC 1.0** — linguagem jurídica controlada.
+3. **PC-SCJ 2.0** — Prompt Mestre de Operação.
+4. **Comandos Operacionais** — atalhos para uso diário.
+
+### Fluxo
+
+**ENTRADA → TRIAGEM → EVIDÊNCIAS → PESQUISA → ANÁLISE → FORMATO → PRODUÇÃO → VERIFIQUE-ME → AUDITORIA → VALIDAÇÃO**
 
 > **Regra-mãe:** A IA pode produzir uma conclusão. Ela não pode transformar sua própria conclusão em fato.
 
@@ -29,14 +36,15 @@ O projeto passou a incluir uma camada específica para uso jurídico assistido p
 3. **Contextualizar:** explique brevemente por que aquilo é relevante.
 4. **Conectar:** indique outros registros relacionados, quando fizer sentido.
 5. **Revisar:** retome as anotações periodicamente e atualize o que mudou.
+6. **Aplicar protocolos:** para análises jurídicas relevantes, use o PC-SCJ 2.0 e os comandos operacionais.
 
 **Regra prática:** é melhor registrar uma boa ideia em três linhas do que perdê-la tentando escrever uma página inteira.
 
 ## Padrão para os registros
 
-- Prefira arquivos Markdown (`.md`), simples, leves e legíveis.
+- Prefira arquivos Markdown (.md), simples, leves e legíveis.
 - Use nomes objetivos, em minúsculas e separados por hífen.
-- Inclua datas no formato `AAAA-MM-DD` quando forem relevantes.
+- Inclua datas no formato AAAA-MM-DD quando forem relevantes.
 - Registre uma informação principal por arquivo, sempre que possível.
 - Não salve links sem contexto: explique por que vale a pena guardá-los.
 - Use tags e palavras-chave de forma consistente, sem excesso de categorias.
@@ -53,6 +61,6 @@ O projeto passou a incluir uma camada específica para uso jurídico assistido p
 
 ## Evolução do projeto
 
-Esta é a estrutura inicial, agora ampliada com uma camada de protocolos. O segundo cérebro poderá crescer com novos modelos, índices, categorias e automações. A ideia não é armazenar tudo indiscriminadamente, mas construir uma base pessoal que ajude a pensar melhor, trabalhar com consistência e recuperar informações com facilidade.
+Esta é a estrutura inicial, agora ampliada com uma camada de protocolos e uma camada operacional de comandos. O segundo cérebro poderá crescer com novos modelos, índices, categorias, testes e automações. A ideia não é armazenar tudo indiscriminadamente, mas construir uma base pessoal que ajude a pensar melhor, trabalhar com consistência e recuperar informações com facilidade.
 
 **Capture hoje. Organize com simplicidade. Verifique quando necessário. Reutilize quando precisar.**
