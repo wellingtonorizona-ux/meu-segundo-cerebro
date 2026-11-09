@@ -11,6 +11,16 @@ O **Meu Segundo Cérebro** é um repositório de conhecimento pessoal. A propost
 | [Ideias de conteúdo](./ideias-de-conteudo/README.md) | Temas, pautas, roteiros e possibilidades de publicação. | O que posso desenvolver ou compartilhar? |
 | [Aprendizados de projeto](./aprendizados-de-projeto/README.md) | Experiências, decisões, problemas, soluções e lições aprendidas. | O que aprendi fazendo? |
 | [Referências](./referencias/README.md) | Artigos, livros, vídeos, sites, documentos, ferramentas e fontes úteis. | Onde encontro informação útil ou confiável? |
+| [Protocolos](./protocolos/README.md) | Regras e métodos para análise, produção, confiabilidade e auditoria do conhecimento. | Como o Segundo Cérebro deve trabalhar? |
+
+## Protocolos em desenvolvimento
+
+O projeto passou a incluir uma camada específica para uso jurídico assistido por IA:
+
+- **[PC-SCJ 1.0 — Protocolo de Confiabilidade do Segundo Cérebro Jurídico](./protocolos/PC-SCJ-1.0.md)** — estabelece evidência antes da conclusão, hierarquia de fontes, classificação de confiabilidade, auditoria, rastreabilidade e validação humana.
+- **[PLJC 1.0 — Padrão de Linguagem Jurídica Controlada](./protocolos/PLJC-1.0.md)** — define regras para comunicação jurídica clara, precisa, verificável e adequada para uso humano e por IA.
+
+> **Regra-mãe:** A IA pode produzir uma conclusão. Ela não pode transformar sua própria conclusão em fato.
 
 ## Como usar
 
@@ -38,9 +48,11 @@ O **Meu Segundo Cérebro** é um repositório de conhecimento pessoal. A propost
 - **Utilidade:** priorize conhecimento que possa ser aplicado, consultado ou compartilhado.
 - **Evolução:** amplie a estrutura conforme o uso revelar novas necessidades.
 - **Autonomia:** mantenha o conhecimento em arquivos acessíveis e portáveis.
+- **Rastreabilidade:** quando uma informação for relevante para decisão, registre sua origem e o caminho até a conclusão.
+- **Verificação:** informação jurídica relevante deve poder ser auditada antes de uso profissional.
 
 ## Evolução do projeto
 
-Esta é a estrutura inicial. O segundo cérebro poderá crescer com novos modelos, índices, categorias e automações. A ideia não é armazenar tudo indiscriminadamente, mas construir uma base pessoal que ajude a pensar melhor, trabalhar com consistência e recuperar informações com facilidade.
+Esta é a estrutura inicial, agora ampliada com uma camada de protocolos. O segundo cérebro poderá crescer com novos modelos, índices, categorias e automações. A ideia não é armazenar tudo indiscriminadamente, mas construir uma base pessoal que ajude a pensar melhor, trabalhar com consistência e recuperar informações com facilidade.
 
-**Capture hoje. Organize com simplicidade. Reutilize quando precisar.**
+**Capture hoje. Organize com simplicidade. Verifique quando necessário. Reutilize quando precisar.**
