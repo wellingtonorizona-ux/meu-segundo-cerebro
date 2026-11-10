@@ -13,6 +13,7 @@ O **Meu Segundo Cérebro** é um repositório de conhecimento pessoal. A propost
 | [Referências](./referencias/README.md) | Artigos, livros, vídeos, sites, documentos, ferramentas e fontes úteis. | Onde encontro informação útil ou confiável? |
 | [Protocolos](./protocolos/README.md) | Regras e métodos para análise, produção, confiabilidade e auditoria do conhecimento. | Como o Segundo Cérebro deve trabalhar? |
 | [Comandos](./comandos/comandos-operacionais.md) | Atalhos para executar os protocolos de forma rápida e consistente. | Como aciono o método? |
+| [Testes](./testes/README.md) | Casos controlados para testar confiabilidade, fontes, raciocínio, formatos e regressões. | O sistema está funcionando como deveria? |
 
 ## Camada jurídica assistida por IA
 
@@ -22,6 +23,7 @@ O projeto agora possui uma arquitetura operacional em evolução:
 2. **PLJC 1.0** — linguagem jurídica controlada.
 3. **PC-SCJ 2.0** — Prompt Mestre de Operação.
 4. **Comandos Operacionais** — atalhos para uso diário.
+5. **Suíte de Testes** — casos controlados para detectar falhas e validar evoluções.
 
 ### Fluxo
 
