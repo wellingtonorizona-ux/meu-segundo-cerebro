@@ -12,7 +12,7 @@ Os casos publicados neste repositório **não devem conter nomes de pessoas, nú
 
 Os casos públicos foram reduzidos ao conjunto de fatos necessário para o teste jurídico. O resultado do julgamento não aparece no arquivo de teste; fica separado no respectivo gabarito de controle.
 
-A anonimização deve ser tratada como requisito de segurança, não como mera substituição de nomes. A ANPD destaca que a anonimização exige impedir a associação, direta ou indireta, do dado a uma pessoa por meios razoáveis. citeturn968909search25turn968909search26
+A anonimização deve ser tratada como requisito de segurança, não como mera substituição de nomes. A ANPD destaca que a anonimização exige impedir a associação, direta ou indireta, do dado a uma pessoa por meios razoáveis.
 
 ## Origem dos casos
 
@@ -61,7 +61,7 @@ A jurisprudência usada para controle pode mudar. O caso histórico permanece co
 - CNJ
 - legislação oficial
 
-O Provimento CNJ nº 149/2023 instituiu o Código Nacional de Normas do Foro Extrajudicial e continua sendo objeto de alterações posteriores. Portanto, procedimentos registrais devem ser verificados na versão vigente. citeturn724953search1turn724953search48
+O Provimento CNJ nº 149/2023 instituiu o Código Nacional de Normas do Foro Extrajudicial e continua sendo objeto de alterações posteriores. Portanto, procedimentos registrais devem ser verificados na versão vigente.
 
 ## Primeira série
 
@@ -82,4 +82,4 @@ O Provimento CNJ nº 149/2023 instituiu o Código Nacional de Normas do Foro Ext
 
 Se qualquer dado identificador aparecer em uma nova versão, a versão deve ser rejeitada e corrigida antes de entrar no repositório.
 
-A presença de informação em fonte pública não elimina automaticamente a necessidade de avaliar finalidade, necessidade, contexto e risco de reidentificação. A ANPD recomenda medidas de anonimização ou pseudonimização quando cabíveis. citeturn968909search24turn968909search5
+A presença de informação em fonte pública não elimina automaticamente a necessidade de avaliar finalidade, necessidade, contexto e risco de reidentificação. A ANPD recomenda medidas de anonimização ou pseudonimização quando cabíveis.
