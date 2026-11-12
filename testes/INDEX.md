@@ -11,6 +11,10 @@ A suíte de testes verifica se o Segundo Cérebro aplica corretamente o PC-SCJ e
 
 A suíte deve ser tratada como instrumento de regressão: uma falha corrigida não deve ser removida. Ela permanece para impedir que versões futuras repitam o mesmo erro.
 
+- [Fontes da T30-C3](./fontes/T30-C3-pacote-fontes-2026-11-12.md)
+- [Cenário T30-C3](./ataques/T30-C3-cenario-decisao-sob-incerteza.md)
+- [Execução T30-C3](./execucoes/T30-C3-decisao-sob-incerteza-2026-11-12.md)
+
 ## Regra de justificativa das escolhas
 
 Quando houver escolha entre fontes, teses ou interpretações, a resposta não será considerada suficiente se apenas indicar a opção escolhida.
