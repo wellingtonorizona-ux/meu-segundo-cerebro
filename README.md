@@ -14,6 +14,7 @@ O **Meu Segundo Cérebro** é um repositório de conhecimento pessoal. A propost
 | [Protocolos](./protocolos/README.md) | Regras e métodos para análise, produção, confiabilidade e auditoria do conhecimento. | Como o Segundo Cérebro deve trabalhar? |
 | [Comandos](./comandos/comandos-operacionais.md) | Atalhos para executar os protocolos de forma rápida e consistente. | Como aciono o método? |
 | [Testes](./testes/README.md) | Casos controlados para testar confiabilidade, fontes, raciocínio, formatos e regressões. | O sistema está funcionando como deveria? |
+| [Regularização Fundiária Rural — Goiás](./modulos/regularizacao-fundiaria-rural-goias/README.md) | Diagnóstico do domínio, triagem de provas e escolha da via jurídica. | Qual direito pode ser regularizado e por qual procedimento? |
 
 ## Camada jurídica assistida por IA
 
