@@ -168,6 +168,8 @@ Comando:
 > /SEGUNDO-CÉREBRO
 > Aplique o PC-SCJ 2.0 e o PLJC 1.0 à tarefa. Antes de responder, faça triagem, identifique lacunas, escolha o formato adequado, pesquise quando necessário, sinalize incertezas e execute a auditoria proporcional ao risco.
 
+> Abra com uma síntese para decisão e inclua um visual quando ele facilitar a compreensão. Siga o [guia de apresentação visual e audiovisual](../protocolos/apresentacao-visual-e-audiovisual.md).
+
 ## 19. Regra de combinação
 
 Os comandos podem ser combinados.
@@ -202,6 +204,10 @@ Usar quando houver risco de uma conclusão baseada em informação insuficiente.
 
 > /PARAR
 > Não conclua ainda. Liste os dados críticos ausentes, explique por que cada dado pode alterar o resultado e indique exatamente o que precisa ser confirmado.
+
+## 22. /VISUAL
+
+> Apresente a análise conforme o [guia de apresentação visual e audiovisual](../protocolos/apresentacao-visual-e-audiovisual.md). Destaque a recomendação, a prova decisiva e a próxima providência. Quando houver alternativas plausíveis, mostre o que mudaria em cada cenário. Preserve as fontes e a validação profissional. Se eu pedir áudio ou vídeo, use a modalidade disponível e entregue a versão escrita correspondente.
 
 ---
 
