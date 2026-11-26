@@ -9,6 +9,7 @@ Esta pasta reúne os protocolos que definem como o Segundo Cérebro deve analisa
 | [PC-SCJ — Protocolo de Confiabilidade do Segundo Cérebro Jurídico](./PC-SCJ-1.0.md) | Controlar evidências, fontes, incertezas, auditoria e validação humana em análises jurídicas. | 1.0 |
 | [PLJC — Padrão de Linguagem Jurídica Controlada](./PLJC-1.0.md) | Definir regras de comunicação jurídica clara, precisa, verificável e adequada para uso humano e por IA. | 1.0 |
 | [PC-SCJ 2.0 — Prompt Mestre de Operação](./PC-SCJ-2.0-Prompt-Mestre.md) | Transformar os protocolos em um fluxo operacional único para análise jurídica assistida por IA. | 2.0 |
+| [Pesquisa de jurisprudência e doutrina](./pesquisa-jurisprudencia-e-doutrina.md) | Localizar, analisar e auditar precedentes e fontes doutrinárias do caso concreto. | 1.0 |
 
 ## Princípio geral
 
