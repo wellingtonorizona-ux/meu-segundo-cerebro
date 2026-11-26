@@ -52,3 +52,7 @@ Nenhum protocolo elimina o risco de erro da IA. Os protocolos existem para aumen
 ## Evolução
 
 Os protocolos são documentos vivos. Alterações relevantes devem gerar nova versão e registrar o motivo da mudança.
+
+## Atualizações no site privado
+
+O GitHub é a referência dos protocolos. Ao alterar uma regra que afete o uso do site, aplique e teste a mudança na interface ou na lógica correspondente. Depois, publique a atualização no mesmo site privado e registre nele a versão e a revisão do protocolo que serviram de base. Consulte o histórico do GitHub no próprio site para acompanhar as alterações do repositório.
