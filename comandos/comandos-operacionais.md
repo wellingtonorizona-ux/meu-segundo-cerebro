@@ -170,6 +170,8 @@ Comando:
 
 > Abra com uma síntese para decisão e inclua um visual quando ele facilitar a compreensão. Siga o [guia de apresentação visual e audiovisual](../protocolos/apresentacao-visual-e-audiovisual.md).
 
+> Quando a questão jurídica do caso exigir jurisprudência ou doutrina, aplique o [protocolo de pesquisa auditável](../protocolos/pesquisa-jurisprudencia-e-doutrina.md) conforme a matéria e as fontes disponíveis.
+
 ## 19. Regra de combinação
 
 Os comandos podem ser combinados.
@@ -208,6 +210,10 @@ Usar quando houver risco de uma conclusão baseada em informação insuficiente.
 ## 22. /VISUAL
 
 > Apresente a análise conforme o [guia de apresentação visual e audiovisual](../protocolos/apresentacao-visual-e-audiovisual.md). Destaque a recomendação, a prova decisiva e a próxima providência. Quando houver alternativas plausíveis, mostre o que mudaria em cada cenário. Preserve as fontes e a validação profissional. Se eu pedir áudio ou vídeo, use a modalidade disponível e entregue a versão escrita correspondente.
+
+## 23. /JURISPRUDÊNCIA-E-DOUTRINA
+
+> Pesquise e analise os julgados e a doutrina pertinentes a este caso conforme o [protocolo de pesquisa auditável](../protocolos/pesquisa-jurisprudencia-e-doutrina.md). Compare aderência e posições contrárias. Comece por livros, depois artigos, informativos e outros escritos. Identifique o local exato de cada passagem e o que ficou pendente de verificação. Aplique /VERIFIQUE-ME aos fundamentos decisivos. Posso pedir apenas jurisprudência ou apenas doutrina.
 
 ---
 
